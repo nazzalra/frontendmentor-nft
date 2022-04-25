@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Click here](https://www.frontendmentor.io/solutions/nft-preview-card-component-H1GEorRV9)
-- Live Site URL: [Click here](https://frontendmentor-6qzojpr9k-r4mzn.vercel.app/)
+- Live Site URL: [Click here](https://frontendmentor-nft-beryl.vercel.app/)
 
 ## My process
 
